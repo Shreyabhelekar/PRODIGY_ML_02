@@ -15,7 +15,7 @@ Clone the repository:
 git clone https://github.com/Shreyabhelekar/PRODIGY_ML_02.git
 
 Navigate to the project directory:
-cd PRODIGY_ML_02.git
+cd PRODIGY_ML_02
 
 Install the required dependencies:
 pip install -r requirements.txt
